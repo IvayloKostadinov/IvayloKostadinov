@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IvayloKostadinov
 - 👀 I’m interested in java
-- 🌱 I’m currently learning java 11
+- 🌱 I’m currently learning java 26
 - 💞️ I’m looking to collaborate on Java projects
 - 📫 How to reach me ivaylokostadinov90@gmail.com
 
